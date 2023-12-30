@@ -1,0 +1,42 @@
+.sports img{
+	width: 100px;
+	height:100px;
+}
+
+.sports={
+	display:flex;
+	gap: 30px;
+	justify-content: center;
+	place-items: center;
+	background-color: greenyellow;
+	padding: 30px 20px;
+}
+
+ul{ 
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color:lightskyblue;
+     
+     
+     
+     }
+
+     li{
+     	float: left;
+        border-right: 1px solid white;
+       }
+    li a{
+    	display:block;
+     
+     color: write;
+     text-decoration: none; }
+ 
+
+
+ .ASH img{
+   width: 500px;
+    height:500px;
+      }
+ 
